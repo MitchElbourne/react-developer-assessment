@@ -51,7 +51,7 @@ If you have time then demonstrating any of the following would be considered as 
 1. Persist filter state in the query string.
 1. Include animated transitions between application state, e.g. when filtering.
 1. Convert the application to use TypeScript instead of JavaScript.
-1. Use a CSS preprocessor or CSS-in-JS rather than plain CSS.
+1. ~~Use a CSS preprocessor or CSS-in-JS rather than plain CSS.~~
 
 ## Submission
 
