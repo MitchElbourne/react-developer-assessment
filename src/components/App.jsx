@@ -1,7 +1,7 @@
-
+import Layout from './Layout/Layout'
 
 function App() {
-  return <div>{/* Complete the exercise here. */}</div>;
+  return <Layout />;
 }
 
 export default App;
