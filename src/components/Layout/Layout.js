@@ -5,11 +5,15 @@ import Footer from './Footer';
 
 export default class Layout extends React.Component {
   render() {
+    let {children} = this.props
+
     return (
       <>
         <Header />
-
-        <h1>Hello</h1>
+        
+        <section id="main">
+          {children}
+        </section>
 
         <Footer />
       </>
